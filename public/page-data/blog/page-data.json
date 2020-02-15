@@ -1,0 +1,93 @@
+{
+    "componentChunkName": "component---src-pages-blog-jsx",
+    "path": "/blog/",
+    "result": {
+        "data": {
+            "allMarkdownRemark": {
+                "edges": [
+                    {
+                        "node": {
+                            "frontmatter": {
+                                "title": "Google Fontsで`font-display:swap`が使えるように！",
+                                "summary": "クエリパラメータで指定することが可能になりました。",
+                                "date": "2019-05-14T05:36:39.770Z",
+                                "thumbnail": "/blogImages/20180518.png"
+                            },
+                            "fields": {
+                                "slug": "/2019-05-14-google-fontsで-font-display-swap-が使えるように！/"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "frontmatter": {
+                                "title": "sharpのビルドに失敗する",
+                                "summary": "gatsbyをnode v10.9.0でインストールしようとすると、`sharp`関連でエラーが出て失敗する件の解決方法。",
+                                "date": "2018-09-06T23:26:47.761Z",
+                                "thumbnail": "/blogImages/20180907.png"
+                            },
+                            "fields": {
+                                "slug": "/2018-09-07-sharpのビルドに失敗する/"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "frontmatter": {
+                                "title": "デモシステムを作成しました",
+                                "summary": "営業活動を行うにあたり、デモ用の Web サービスを作成しましたのでご紹介させてください。",
+                                "date": "2018-07-31T11:22:26+09:00",
+                                "thumbnail": "/blogImages/20180731_phone.png"
+                            },
+                            "fields": {
+                                "slug": "/2018-07-31-デモシステムを作成しました/"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "frontmatter": {
+                                "title": "Kubernetesで複数のWebサービスを楽に管理する",
+                                "summary": "バーチャルホストと証明書自動更新の機能を実装し、Kubernetesで複数ドメインのWebサービスを楽に管理するための環境構築を行いました。",
+                                "date": "2018-06-14T11:22:26+09:00",
+                                "thumbnail": "/blogImages/20180614.png"
+                            },
+                            "fields": {
+                                "slug": "/2018-06-14-kubernetesで複数のwebサービスを楽に管理する/"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "frontmatter": {
+                                "title": "LambdaでGithubのアクセストークンを取得する",
+                                "summary": "サーバレス環境でGithubのアクセストークンを取得するために、Lambdaを活用しました。",
+                                "date": "2018-05-01T19:03:56+09:00",
+                                "thumbnail": "/blogImages/20180501.png"
+                            },
+                            "fields": {
+                                "slug": "/2018-05-01-lambdaでgithubのアクセストークンを取得する/"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "frontmatter": {
+                                "title": "Creating a JAM Stack website",
+                                "summary": "I had a chance to create a new website, so I decided to build it using a method called JAM Stack . JAM Stack is a serverless framework composed of JS + API + Markup.",
+                                "date": "2018-04-09T15:00:00+09:00",
+                                "thumbnail": "/blogImages/20180409.png"
+                            },
+                            "fields": {
+                                "slug": "/2018-04-09-jamstackなwebサイトの作成/"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "pageContext": {
+            "isCreatedByStatefulCreatePages": true
+        }
+    }
+}
