@@ -1,0 +1,88 @@
+{
+  "stages": {
+    "develop": {
+      "plugins": [
+        {
+          "name": "/Users/alexandra/alexfrommars.github.io/node_modules/glamor/babel-hoist.js",
+          "options": {}
+        }
+      ],
+      "presets": [
+        {
+          "name": "/Users/alexandra/alexfrommars.github.io/node_modules/@babel/preset-react/lib/index.js",
+          "options": {
+            "pragma": "Glamor.createElement"
+          }
+        }
+      ],
+      "options": {
+        "cacheDirectory": true,
+        "sourceType": "unambiguous"
+      }
+    },
+    "develop-html": {
+      "plugins": [
+        {
+          "name": "/Users/alexandra/alexfrommars.github.io/node_modules/glamor/babel-hoist.js",
+          "options": {}
+        }
+      ],
+      "presets": [
+        {
+          "name": "/Users/alexandra/alexfrommars.github.io/node_modules/@babel/preset-react/lib/index.js",
+          "options": {
+            "pragma": "Glamor.createElement"
+          }
+        }
+      ],
+      "options": {
+        "cacheDirectory": true,
+        "sourceType": "unambiguous"
+      }
+    },
+    "build-html": {
+      "plugins": [
+        {
+          "name": "/Users/alexandra/alexfrommars.github.io/node_modules/glamor/babel-hoist.js",
+          "options": {}
+        }
+      ],
+      "presets": [
+        {
+          "name": "/Users/alexandra/alexfrommars.github.io/node_modules/@babel/preset-react/lib/index.js",
+          "options": {
+            "pragma": "Glamor.createElement"
+          }
+        }
+      ],
+      "options": {
+        "cacheDirectory": true,
+        "sourceType": "unambiguous"
+      }
+    },
+    "build-javascript": {
+      "plugins": [
+        {
+          "name": "/Users/alexandra/alexfrommars.github.io/node_modules/glamor/babel-hoist.js",
+          "options": {}
+        }
+      ],
+      "presets": [
+        {
+          "name": "/Users/alexandra/alexfrommars.github.io/node_modules/@babel/preset-react/lib/index.js",
+          "options": {
+            "pragma": "Glamor.createElement"
+          }
+        }
+      ],
+      "options": {
+        "cacheDirectory": true,
+        "sourceType": "unambiguous"
+      }
+    }
+  },
+  "browserslist": [
+    ">0.25%",
+    "not dead"
+  ]
+}
